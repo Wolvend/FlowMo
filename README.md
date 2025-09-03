@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://arielshaulov.github.io/FlowMo/"><img src="https://img.shields.io/static/v1?label=Project&message=Website&color=red" height=20.5></a> 
- <a href="https://github.com/arielshaulov/video-motion"><img src="https://img.shields.io/badge/arXiv-2306.00966-b31b1b.svg" height=20.5></a>
+ <a href="https://arxiv.org/pdf/2506.01144"><img src="https://img.shields.io/badge/arXiv-2306.00966-b31b1b.svg" height=20.5></a>
 </div>
 
 ## 📝 Abstract
